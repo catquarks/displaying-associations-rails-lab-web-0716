@@ -1,0 +1,18 @@
+﻿platform: Linux 4.4.0-34-lowlatency #53-Ubuntu SMP PREEMPT Wed Jul 27 19:23:26 UTC 2016 x86_64
+version: 2.3.5.365
+[20160822 14:13:58.417] Configuration from file "" has been applied
+[20160822 14:13:58.418] ZIP: Can't locate [version] in zip, error -100.
+[20160822 14:13:58.418] PLC[0x0000000001d7c1e0] binding on 0.0.0.0:37436
+[20160822 14:13:58.418] Socket[0x0000000001d7c1e0][8] bound listening socket 8 to IP 0.0.0.0:37436
+[20160822 14:13:58.418] UDP: bound listening socket 9 to IP 0.0.0.0:37436
+[20160822 14:13:58.419] Unable to listen for HTTP traffic on port 8888.  Exiting...
+[20160822 14:13:58.419] UPNP: Using IP address 192.168.6.53
+[20160822 14:13:58.419] test sha1: AE5BD8EFEA5322C4D9986D06680A781392F9A642
+[20160822 14:13:58.419] test sha2: 630DCD2966C4336691125448BBB25B4FF412A49C732DB2C8ABC1B8581BD710DD
+[20160822 14:13:58.419] test aes: 0A940BB5416EF045F1C39458C653EA5A07FEEF74E1D5036E900EEE118E949293
+[20160822 14:13:58.420] My PeerID: 10D8C5395B062F75B295587D10AF80AFDF86D866
+[20160822 14:13:58.420] saved history: 0 events
+[20160822 14:13:58.420] Shutdown. Saving config sync.dat
+[20160822 14:13:58.420] LC: LoadLicenses: there is no pro license
+[20160822 14:13:58.420] loaded history: 0 events
+[20160822 14:13:59.847] UPnP: Device error "http://192.168.3.221:1400/xml/device_description.xml": (-2) 

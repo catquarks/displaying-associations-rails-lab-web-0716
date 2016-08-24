@@ -5,3 +5,13 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+
+#song belongs to artist
+require 'faker'
+
+10.times do 
+	artist = Artist.find_or_create_by(name: Faker::Pokemon.name)
+	artist.songs.build(title: Faker::Pokemon.location + " Song")
+	artist.save
+end
